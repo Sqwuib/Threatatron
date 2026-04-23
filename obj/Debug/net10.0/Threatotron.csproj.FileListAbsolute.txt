@@ -1,0 +1,14 @@
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\bin\Debug\net10.0\Threatotron.exe
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\bin\Debug\net10.0\Threatotron.deps.json
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\bin\Debug\net10.0\Threatotron.runtimeconfig.json
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\bin\Debug\net10.0\Threatotron.dll
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\bin\Debug\net10.0\Threatotron.pdb
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.AssemblyInfoInputs.cache
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.AssemblyInfo.cs
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.csproj.CoreCompileInputs.cache
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.dll
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\refint\Threatotron.dll
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.pdb
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\Threatotron.genruntimeconfig.cache
+C:\Users\thesc\Documents\UNI\2024 - Semester 1\CAB201 - Programming Principles\Assessment\629365\Threatotron\obj\Debug\net10.0\ref\Threatotron.dll

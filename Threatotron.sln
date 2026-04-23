@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threatotron", "Threatotron.csproj", "{97E4583E-A6E7-4254-DE39-D9809AB25BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E4583E-A6E7-4254-DE39-D9809AB25BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E4583E-A6E7-4254-DE39-D9809AB25BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E4583E-A6E7-4254-DE39-D9809AB25BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E4583E-A6E7-4254-DE39-D9809AB25BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEDA0590-B042-4A47-B3D0-DCC31EE48807}
+	EndGlobalSection
+EndGlobal
